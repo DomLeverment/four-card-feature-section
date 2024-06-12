@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Screenshot
 
-(images/Screenshot 2024-06-12 at 11.11.40.png)
+![(images/Screenshot 2024-06-12 at 11.11.40.png)]
 
 ### Built with
 
